@@ -6,6 +6,10 @@ Utilities for working with Alexa skills.
 - Converting arrays into readable strings.
 - Building options for external API calls and calling them easily.
 
+```bash
+$ sudo npm install --save alexa-helper
+```
+
 Example: 
 ```javascript
 const helper = require('alexa-helper');
