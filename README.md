@@ -10,7 +10,7 @@ Utilities for working with Alexa skills.
 $ sudo npm install --save alexa-helper
 ```
 
-Example: 
+Example: Full example of its use can be found on the [Chicago Beaches](https://github.com/santisbon/chicagobeaches) project.
 ```javascript
 const helper = require('alexa-helper');
 
